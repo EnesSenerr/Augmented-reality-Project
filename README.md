@@ -1,5 +1,6 @@
-RomAR
-215541024 - Enes ŞENER
+﻿# RomAR
+﻿# 215541024 - Enes ŞENER
+ 
 
 Bu proje, artırılmış gerçeklik (AR) teknolojisi kullanarak Roma rakamlarını sürükle-bırak yöntemiyle eşleştirmeye dayalı bir oyun uygulamasıdır. Vuforia AR SDK'sı ile geliştirilen bu uygulama, kullanıcıların ekranda rastgele beliren Roma rakamlarını doğru rakamlarla eşleştirmesini sağlar.
 Özellikler
@@ -24,3 +25,4 @@ Projeyi çalıştırarak Roma rakamlarını eşleştirmeye başlayın!
 
 Projeyi Apk olarak indirmek için drive linki:
 [# Augmented-reality-Project](https://drive.google.com/file/d/1dNnYIEalBQD4pvucpN-t8wuduy2OVA3o/view?usp=sharing)
+﻿# Trello linki: https://trello.com/b/IjM5PClt/raporlama
