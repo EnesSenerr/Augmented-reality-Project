@@ -1,30 +1,35 @@
-﻿# RomAR
-﻿
-# 215541024 - Enes ŞENER
- 
+RomAR
+215541024 - Enes ŞENER
 
-Bu proje, artırılmış gerçeklik (AR) teknolojisi kullanarak Roma rakamlarını sürükle-bırak yöntemiyle eşleştirmeye dayalı bir oyun uygulamasıdır. Vuforia AR SDK'sı ile geliştirilen bu uygulama, kullanıcıların ekranda rastgele beliren Roma rakamlarını doğru rakamlarla eşleştirmesini sağlar.
+Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcıların ekranda rastgele beliren Roma rakamlarını sürükle-bırak yöntemiyle doğru eşleştirmeye çalıştıkları bir oyun uygulamasıdır. Süreye karşı yarışarak oynanan bu oyun, hem eğlenceli hem de zihin geliştirici bir deneyim sunar.
 Özellikler
 
-    Rastgele Roma Rakamları: Ekranda farklı pozisyonlarda rastgele Roma rakamları yer alır.
-    Sürükle ve Bırak: Kullanıcılar, ekranın alt kısmındaki kutuya doğru Roma rakamını sürükleyip bırakabilirler.
-    Eğlenceli Oyun Mekaniği: Kullanıcı doğru eşleştirmeyi yaparak kazanç sağlar.
+    Rastgele Spawn Olan Roma Rakamları:
+    Oyunda, ekranda farklı konumlarda rastgele beliren Roma rakamları yer alır. Tüm prefablar dinamik olarak sahneye yerleştirilir.
+
+    Süreye Karşı Yarış:
+    Kullanıcılar, verilen süre içerisinde mümkün olduğunca fazla doğru eşleştirme yapmaya çalışır.
+
+    Sürükle ve Bırak Mekaniği:
+    Roma rakamlarını, doğru eşleştirme alanına sürükleyip bırakarak puan kazanılır.
+
+    Oyun Sonu Skor:
+    Süre sona erdiğinde kullanıcıların toplam skoru görüntülenir.
 
 Teknolojiler
 
-    Unity 2020.3+: Oyun motoru olarak Unity kullanılmıştır.
-    Vuforia SDK: AR özellikleri için Vuforia kullanılmıştır.
-    C# Scripting: Oyun mantığı için C# programlama dili kullanılmıştır.Başlangıç
+    Unity 2020.3+:
+    Oyun motoru olarak Unity kullanılmıştır.
 
-Bu projeyi bilgisayarınıza klonladıktan sonra, Unity'yi açın ve projenizi başlatın. Gerekli olan tüm varlıklar ve yapılandırmalar dahil edilmiştir. AR cihazında çalıştırmak için bir Vuforia lisansı gereklidir.
-Nasıl Çalıştırılır
+    AR CORE SDK:
+    AR özelliklerini etkinleştirmek için AR CORE SDK kullanılmıştır.
 
-    GitHub repository'sini klonlayın:
-    Unity Editor'ü açın ve projeyi yükleyin.
-Vuforia SDK'yı etkinleştirerek cihazınıza uygun ayarları yapın.
-Projeyi çalıştırarak Roma rakamlarını eşleştirmeye başlayın!
+    C# Scripting:
+    Oyun mantığı ve mekaniği C# programlama dili ile yazılmıştır.
+    Ek Bilgiler
 
-# Projeyi Apk olarak indirmek için drive linki:
-[# Augmented-reality-Project]()https://drive.google.com/file/d/1feeL-7s7ZJqIBDl_233eYIypUjzuz_g_/view?usp=drive_link
+    Projenin APK Dosyasını İndirin:
+    [RomAR APK](https://drive.google.com/file/d/1feeL-7s7ZJqIBDl_233eYIypUjzuz_g_/view)
 
-# Trello linki: https://trello.com/b/IjM5PClt/raporlama
+    Proje Yönetimi İçin Trello Linki:
+    https://trello.com/b/IjM5PClt/raporlama
