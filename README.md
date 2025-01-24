@@ -25,6 +25,6 @@ Vuforia SDK'yı etkinleştirerek cihazınıza uygun ayarları yapın.
 Projeyi çalıştırarak Roma rakamlarını eşleştirmeye başlayın!
 
 # Projeyi Apk olarak indirmek için drive linki:
-[# Augmented-reality-Project](https://drive.google.com/file/d/1dNnYIEalBQD4pvucpN-t8wuduy2OVA3o/view?usp=sharing)
+[# Augmented-reality-Project]()https://drive.google.com/file/d/1feeL-7s7ZJqIBDl_233eYIypUjzuz_g_/view?usp=drive_link
 
 # Trello linki: https://trello.com/b/IjM5PClt/raporlama
