@@ -26,10 +26,11 @@ Teknolojiler
 
     C# Scripting:
     Oyun mantığı ve mekaniği C# programlama dili ile yazılmıştır.
-    Ek Bilgiler
+   
+ Ek Bilgiler
 
-    Projenin APK Dosyasını İndirin:
+ Projenin APK Dosyasını İndirin:
     [RomAR APK](https://drive.google.com/file/d/1feeL-7s7ZJqIBDl_233eYIypUjzuz_g_/view)
 
-    Proje Yönetimi İçin Trello Linki:
+ Proje Yönetimi İçin Trello Linki:
     https://trello.com/b/IjM5PClt/raporlama
