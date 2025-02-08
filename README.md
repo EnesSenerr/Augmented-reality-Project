@@ -89,10 +89,10 @@ Eğer mobil cihazda test etmek istiyorsanız:
 ### **📥 APK DOSYASI** 
 
 Projeyi doğrudan indirip test etmek için APK dosyasını kullanabilirsiniz:
-[ARoma APK](https://drive.google.com/file/d/1feeL-7s7ZJqIBDl_233eYIypUjzuz_g_/view)
+### [ARoma APK](https://drive.google.com/file/d/1feeL-7s7ZJqIBDl_233eYIypUjzuz_g_/view)
 
 ### **PROJE YÖNETİMİ**
 
 Trello üzerinden proje yönetimini takip edebilirsiniz:
 🔗 Trello Linki
-[Trello](https://trello.com/b/IjM5PClt/raporlama)
+### [Trello](https://trello.com/b/IjM5PClt/raporlama)
