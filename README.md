@@ -1,12 +1,9 @@
 RomAR
 215541024 - Enes ŞENER
 
-<img src="https://github.com/user-attachments/assets/421f09ec-b08c-4089-868f-e401a8b9693a" alt="Görsel Açıklaması" style="width: 50%; height: auto;">
+https://github.com/user-attachments/assets/0bd583ab-25de-4bba-a5fa-0c91cd45f870
 
-<video width="50%" controls>
-  <source src="https://github.com/user-attachments/assets/0bd583ab-25de-4bba-a5fa-0c91cd45f870" type="video/mp4">
-  Tarayıcınız bu videoyu desteklemiyor.
-</video>
+![Image](https://github.com/user-attachments/assets/421f09ec-b08c-4089-868f-e401a8b9693a)
 
 
 
@@ -39,7 +36,7 @@ Teknolojiler
  Ek Bilgiler
 
  Projenin APK Dosyasını İndirin:
-    [RomAR APK](https://drive.google.com/file/d/1feeL-7s7ZJqIBDl_233eYIypUjzuz_g_/view)
+    [ARoma APK](https://drive.google.com/file/d/1feeL-7s7ZJqIBDl_233eYIypUjzuz_g_/view)
 
  Proje Yönetimi İçin Trello Linki:
     https://trello.com/b/IjM5PClt/raporlama
