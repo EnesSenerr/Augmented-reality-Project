@@ -96,3 +96,6 @@ Projeyi doğrudan indirip test etmek için APK dosyasını kullanabilirsiniz:
 Trello üzerinden proje yönetimini takip edebilirsiniz:
 🔗 Trello Linki
 ### [Trello](https://trello.com/b/IjM5PClt/raporlama)
+
+### **Teknoloji Hazırlık Seviyesi (THS)**
+<img src="https://github.com/user-attachments/assets/6e89c432-c645-4798-b264-798fdb3e64ff" alt="Teknoloji Hazırlık Seviyesi (THS)" width="50%">  
