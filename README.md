@@ -1,4 +1,4 @@
-# **RomAR**  
+# **ARoma**  
 **215541024 - Enes ŞENER**  
 
 Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcıların ekranda rastgele beliren Roma rakamlarını sürükle-bırak yöntemiyle doğru eşleştirmeye çalıştıkları bir oyun uygulamasıdır. Süreye karşı yarışarak oynanan bu oyun, hem eğlenceli hem de zihin geliştirici bir deneyim sunar.
