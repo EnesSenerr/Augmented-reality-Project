@@ -2,7 +2,8 @@ RomAR
 215541024 - Enes ŞENER
 
 <img src="https://github.com/user-attachments/assets/421f09ec-b08c-4089-868f-e401a8b9693a" alt="Image" width="400">
-<img src="https://github.com/user-attachments/assets/421f09ec-b08c-4089-868f-e401a8b9693a" alt="Image" style="width: 50%; height: auto;">
+https://github.com/user-attachments/assets/0bd583ab-25de-4bba-a5fa-0c91cd45f870
+
 
 Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcıların ekranda rastgele beliren Roma rakamlarını sürükle-bırak yöntemiyle doğru eşleştirmeye çalıştıkları bir oyun uygulamasıdır. Süreye karşı yarışarak oynanan bu oyun, hem eğlenceli hem de zihin geliştirici bir deneyim sunar.
 Özellikler
