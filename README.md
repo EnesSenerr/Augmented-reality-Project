@@ -2,9 +2,14 @@ RomAR
 215541024 - Enes ŞENER
 
 
+NASIL OYNANIR?
+
 <p>
   <img src="https://github.com/user-attachments/assets/421f09ec-b08c-4089-868f-e401a8b9693a" alt="Nasıl Oynanır?" width="50%">
 </p>
+
+
+OYNANIŞ VİDEOSU
 
 https://github.com/user-attachments/assets/0bd583ab-25de-4bba-a5fa-0c91cd45f870
 
