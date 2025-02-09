@@ -116,7 +116,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColor: {r: 0.972549, g: 0.08627451, b: 0.09411765, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -241,7 +241,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numeralValue: 7
-  moveSpeed: 15
+  moveSpeed: 35
 --- !u!114 &6945770536220473203
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -63,5 +63,11 @@ public class DropZone : MonoBehaviour
         {
             correctNumberText.text = "Tamamlandı!";
         }
+        
     }
+    public int GetScore()
+{
+    return score;
+}
+
 }

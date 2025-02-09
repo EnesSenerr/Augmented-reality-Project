@@ -18,6 +18,12 @@ public class DropZone2 : MonoBehaviour
         UpdateTimer();
     }
 
+    public void ResetForNewLevel()
+    {
+        scoreText.text = "Puan: " + score;
+        SelectNewCorrectNumber();
+        timer = 60f; // Yeni seviye başlatıldığında zamanlayıcıyı sıfırla
+    }
     void Update()
     {
         timer -= Time.deltaTime;
@@ -34,12 +40,7 @@ public class DropZone2 : MonoBehaviour
         timerText.text = "Zaman: " + Mathf.FloorToInt(timer).ToString();
     }
 
-    public void ResetForNewLevel()
-    {
-        scoreText.text = "Puan: " + score;
-        SelectNewCorrectNumber();
-        timer = 60f; // Yeni seviye başlatıldığında zamanlayıcıyı sıfırla
-    }
+    
 
     void OnTriggerEnter(Collider other)
     {
@@ -84,4 +85,8 @@ public class DropZone2 : MonoBehaviour
             correctNumberText.text = "Tamamlandı!";
         }
     }
+    public int GetScore()
+{
+    return score;
+}
 }
