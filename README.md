@@ -23,7 +23,7 @@ Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcılar
 ### **Teknoloji Hazırlık Seviyesi (THS)**
 <img src="https://github.com/user-attachments/assets/6e89c432-c645-4798-b264-798fdb3e64ff" alt="Teknoloji Hazırlık Seviyesi (THS)" width="50%">  
 
-### [Trello](https://docs.google.com/spreadsheets/d/1UOdLbknqIADR0jZcdDztPloCFkjicS3Z/edit?usp=sharing&ouid=108949441990015604242&rtpof=true&sd=true)
+### [Teknoloji Hazırlık Seviyesi xlsx Dosyası](https://docs.google.com/spreadsheets/d/1UOdLbknqIADR0jZcdDztPloCFkjicS3Z/edit?usp=sharing&ouid=108949441990015604242&rtpof=true&sd=true)
 
 ---
 
