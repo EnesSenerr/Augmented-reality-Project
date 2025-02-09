@@ -22,6 +22,7 @@ Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcılar
 
 ### **Teknoloji Hazırlık Seviyesi (THS)**
 <img src="https://github.com/user-attachments/assets/6e89c432-c645-4798-b264-798fdb3e64ff" alt="Teknoloji Hazırlık Seviyesi (THS)" width="50%">  
+### [Trello](https://docs.google.com/spreadsheets/d/1UOdLbknqIADR0jZcdDztPloCFkjicS3Z/edit?usp=sharing&ouid=108949441990015604242&rtpof=true&sd=true)
 
 ---
 
@@ -111,4 +112,4 @@ Eğer mobil cihazda test etmek istiyorsanız:
 ### **📥 APK DOSYASI** 
 
 Projeyi doğrudan indirip test etmek için APK dosyasını kullanabilirsiniz:
-### [ARoma APK](https://drive.google.com/file/d/1feeL-7s7ZJqIBDl_233eYIypUjzuz_g_/view)
+### [ARoma APK](https://drive.google.com/file/d/1feeL-7s7ZJqIBDl_233eYIypUjzuz_g_/view) 
