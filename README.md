@@ -1,7 +1,7 @@
 # **ARoma**  
 **215541024 - Enes ŞENER**  
 
-Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcıların ekranda rastgele beliren Roma rakamlarını sürükle-bırak yöntemiyle doğru eşleştirmeye çalıştıkları bir oyun uygulamasıdır. Süreye karşı yarışarak oynanan bu oyun, hem eğlenceli hem de zihin geliştirici bir deneyim sunar.
+Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcıların ekranda rastgele beliren Roma rakamlarını sürükle-bırak yöntemiyle doğru eşleştirmeye çalıştıkları bir oyun uygulamasıdır. Süreye karşı yarışarak oynanan bu oyun, hem eğlenceli hem de zihin geliştirici bir deneyim sunar. Sayfanın altından apk dosyasını mobil cihazınıza indirip oynuyabilirsiniz.
 
 ---
 
@@ -10,13 +10,18 @@ Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcılar
 
 ---
 
-## **📹 Web Sitesi**
+## **🌐 Web Sitesi**
 ### [WebSite](https://enessener634.wixsite.com/my-site-3)
 
 ---
 
-🔗 Trello Linki
+## **🔗 Trello Linki**
 ### [Trello](https://trello.com/b/IjM5PClt/raporlama)
+
+---
+
+### **Teknoloji Hazırlık Seviyesi (THS)**
+<img src="https://github.com/user-attachments/assets/6e89c432-c645-4798-b264-798fdb3e64ff" alt="Teknoloji Hazırlık Seviyesi (THS)" width="50%">  
 
 ---
 
@@ -107,11 +112,3 @@ Eğer mobil cihazda test etmek istiyorsanız:
 
 Projeyi doğrudan indirip test etmek için APK dosyasını kullanabilirsiniz:
 ### [ARoma APK](https://drive.google.com/file/d/1feeL-7s7ZJqIBDl_233eYIypUjzuz_g_/view)
-
-### **PROJE YÖNETİMİ**
-
-Trello üzerinden proje yönetimini takip edebilirsiniz:
-
-
-### **Teknoloji Hazırlık Seviyesi (THS)**
-<img src="https://github.com/user-attachments/assets/6e89c432-c645-4798-b264-798fdb3e64ff" alt="Teknoloji Hazırlık Seviyesi (THS)" width="50%">  
