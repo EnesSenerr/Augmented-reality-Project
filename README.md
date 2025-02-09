@@ -79,7 +79,7 @@ Projeyi bilgisayarınıza indirmek için aşağıdaki komutu terminal veya komut
 
 ```bash
 git clone https://github.com/EnesSenerr/Augmented-reality-Project.git
-Veya GitHub sayfasından google drive aracılığıyla Rar olarak indirebilirsiniz.
+Veya GitHub sayfasından google drive aracılığıyla indirebilirsiniz.
 ```
 
 ---
