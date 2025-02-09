@@ -5,9 +5,26 @@ Bu proje, artırılmış gerçeklik (AR) teknolojisini kullanarak kullanıcılar
 
 ---
 
+## **📹 Tanıtım ve Oynanış Videosu**
+### [Tanıtım Videosu](https://youtu.be/bLr3e2U7dVs)
+
+---
+
+## **📹 Web Sitesi**
+### [WebSite](https://enessener634.wixsite.com/my-site-3)
+
+---
+
+🔗 Trello Linki
+### [Trello](https://trello.com/b/IjM5PClt/raporlama)
+
+---
+
 ## **📌 NASIL OYNANIR?**  
 
-<img src="https://github.com/user-attachments/assets/421f09ec-b08c-4089-868f-e401a8b9693a" alt="Nasıl Oynanır?" width="50%">  
+<img src="https://github.com/user-attachments/assets/0499b193-d5ba-4eb4-b39b-223f274dfa7a" alt="Nasıl Oynanır?" width="50%">
+<img src="https://github.com/user-attachments/assets/0b2bed12-106b-4aa1-98cd-f3ae5464cfe3" alt="Nasıl Oynanır?" width="50%">  
+
 
 1. Oyun başladığında ekrana rastgele Roma rakamları düşer.  
 2. Hedef rakamı ekranın üst kısmında görürsünüz.  
@@ -94,8 +111,7 @@ Projeyi doğrudan indirip test etmek için APK dosyasını kullanabilirsiniz:
 ### **PROJE YÖNETİMİ**
 
 Trello üzerinden proje yönetimini takip edebilirsiniz:
-🔗 Trello Linki
-### [Trello](https://trello.com/b/IjM5PClt/raporlama)
+
 
 ### **Teknoloji Hazırlık Seviyesi (THS)**
 <img src="https://github.com/user-attachments/assets/6e89c432-c645-4798-b264-798fdb3e64ff" alt="Teknoloji Hazırlık Seviyesi (THS)" width="50%">  
